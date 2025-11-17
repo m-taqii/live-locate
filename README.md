@@ -17,20 +17,20 @@ A small practice Node.js app that demonstrates real-time location sharing using 
 ## Installation
 
 1. Clone the repository:
-
+```
    git clone https://github.com/m-taqii/live-locate.git
    cd live-locate
-
+```
 2. Install dependencies:
-
+```
    npm install
-
+```
 ## Usage
 
 Start the server:
-
+```
    node app.js
-
+```
 By default the app runs on port 3000. Open http://localhost:3000 in multiple browser windows to test real-time location sharing.
 
 ## How it works
